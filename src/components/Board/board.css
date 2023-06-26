@@ -1,0 +1,17 @@
+
+.container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    
+  }
+  
+  .sidebar {
+    margin-bottom: 10px;
+  }
+  
+  .column {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
