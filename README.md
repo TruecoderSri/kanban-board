@@ -1,3 +1,3 @@
 ## Kanban Board
 
-![preview](public/preview.png)
+![preview](public/kanbanPreview.png)
